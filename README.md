@@ -1,5 +1,20 @@
 # Frontend Mentor - Product preview card component
 
+My solution to the Frontend Mentor challenge.
+
+## Live Demo
+ https://eceeocakdan.github.io/frontend-mentor-challenge-5/
+
+ ## Built With
+ -HTML
+ -CSS
+ -Flexbox
+
+ ## What I Learned
+ -Responsive layout
+ -Card Design
+ -CSS hover effects
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
